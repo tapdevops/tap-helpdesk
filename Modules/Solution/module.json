@@ -1,0 +1,16 @@
+{
+    "name": "Solution",
+    "alias": "solution",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Solution\\Providers\\SolutionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
